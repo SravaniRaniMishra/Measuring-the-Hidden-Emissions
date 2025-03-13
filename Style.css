@@ -1,0 +1,33 @@
+/* style.css */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f2f6;
+    color: #333;
+}
+
+h1 {
+    color: #4CAF50;
+    text-align: center;
+}
+
+.sidebar .sidebar-content {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.stButton button {
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+.stButton button:hover {
+    background-color: #45a049;
+}
+
+.stBar {
+    background-color: #4CAF50 !important;
+}
